@@ -43,5 +43,5 @@ WITH_GMS := true
 TARGET_IS_PIXEL := true
 TARGET_PIXEL_STAND_SUPPORTED := true
 
-include packages/apps/PixelParts/device.mk
-include vendor/google/camera/config.mk
+#include packages/apps/PixelParts/device.mk
+#include vendor/google/camera/config.mk
