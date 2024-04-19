@@ -42,7 +42,6 @@ WITH_GMS := true
 
 # Target flags
 TARGET_PIXEL_BOOT_ANIMATION_RES := 1080
-TARGET_HAS_UDFPS := true
 TARGET_ENABLE_BLUR := false
 
 # Pixel Flags
